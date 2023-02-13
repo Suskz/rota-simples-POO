@@ -1,0 +1,17 @@
+{
+    "name": "ambush/rota-simples-poo",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ielson Dias",
+            "email": "ielsondias1@gmail.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5"
+    }
+}
